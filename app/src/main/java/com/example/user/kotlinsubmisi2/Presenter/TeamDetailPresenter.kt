@@ -1,6 +1,6 @@
 package com.example.user.kotlinsubmisi2.Presenter
 
-import com.example.user.kotlinsubmisi2.Model.ApiRepository
+import com.example.user.kotlinsubmisi2.Model.ApiConfig.ApiRepository
 import com.example.user.kotlinsubmisi2.Model.TeamResponse
 import com.example.user.kotlinsubmisi2.View.TeamDetailView
 import com.google.gson.Gson

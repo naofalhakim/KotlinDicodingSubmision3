@@ -11,7 +11,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.*
-import com.example.user.kotlinsubmisi2.Model.ApiRepository
+import com.example.user.kotlinsubmisi2.Model.ApiConfig.ApiRepository
 import com.example.user.kotlinsubmisi2.Model.Team
 import com.example.user.kotlinsubmisi2.Presenter.TeamsPresenter
 import com.example.user.kotlinsubmisi2.R.array.league

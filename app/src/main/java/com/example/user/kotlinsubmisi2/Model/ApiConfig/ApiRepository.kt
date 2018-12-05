@@ -1,4 +1,4 @@
-package com.example.user.kotlinsubmisi2.Model
+package com.example.user.kotlinsubmisi2.Model.ApiConfig
 
 import android.net.Uri
 import com.example.user.kotlinsubmisi2.BuildConfig
